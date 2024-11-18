@@ -1,6 +1,6 @@
 # api-automation-cypress
 
-## API Automation with Cypress with Mocha Awesome Reporter
+## API Automation with Cypress and Mocha Awesome Reporter
 
 This repository demonstrates how to implement API automation testing using **Cypress**, a JavaScript-based end-to-end testing framework, and **Mocha Awesome Reporter**, a powerful reporting tool that generates comprehensive, visually appealing test reports.
 
