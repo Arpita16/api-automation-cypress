@@ -1,6 +1,7 @@
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
+  projectId: "2pdddk",
   watchForFileChanges:false,
   failOnStatusCode: false,
   e2e: {
